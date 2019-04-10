@@ -195,6 +195,7 @@ h1, h2, h3, h4, h5, h6 {
     text-align: left;
     background-color: #07090c;
     font-size: 14px;
+    display: inline-block;
   }
   .snip1402 * {
     -webkit-box-sizing: border-box;
